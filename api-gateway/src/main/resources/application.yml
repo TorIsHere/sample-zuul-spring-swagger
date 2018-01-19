@@ -1,0 +1,11 @@
+zuul:
+  routes:
+    hello:
+      path: /hello/**
+      url: http://localhost:7788/
+    goodbye:
+      path: /goodbye/**
+      url: http://localhost:7799/
+server:
+  port:
+    8080
