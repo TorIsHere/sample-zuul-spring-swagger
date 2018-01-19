@@ -1,4 +1,4 @@
-package com.torishere.goodbyeservice;
+package com.torishere.goodbyeservice.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.info.BuildProperties;
