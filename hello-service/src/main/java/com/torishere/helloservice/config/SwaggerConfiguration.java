@@ -1,4 +1,4 @@
-package com.torishere.helloservice;
+package com.torishere.helloservice.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.info.BuildProperties;
